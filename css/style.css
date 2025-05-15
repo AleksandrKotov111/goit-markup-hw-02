@@ -89,7 +89,7 @@ ul {
 .address__item-tel {
 }
 
-/* ======== HEADER END ========*/
+/* ======== HEADER END ======== */
 
 /*========= MAIN ============ */
 .main {
@@ -237,12 +237,12 @@ ul {
     color: #434355;
 }
 
-/* =========== Portfolio END*/
+/* =========== Portfolio END */
 /*========= MAIN EDN ============ */
 
 
-/* =========== Footer */
-
+/* =========== Footer =========== */
+/* ===========Footer */
 .footer {
     background-color: #2E2F42;
 }
@@ -268,4 +268,4 @@ ul {
     color: #f4f4fd;
 }
 
-/* ===========Footer END */
+/* ===========Footer END============ */
