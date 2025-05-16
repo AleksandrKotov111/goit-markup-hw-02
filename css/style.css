@@ -113,7 +113,7 @@ ul {
     font-size: 56px;
     line-height: 107%;
     letter-spacing: 0.02em;
-    /* text-align: center; */
+    text-align: center;
     color: #fff;
 }
 
@@ -124,7 +124,7 @@ ul {
     line-height: 150%;
     letter-spacing: 0.04em;
     color: #fff;
-background-color: #4D5AE5;
+    background-color: #4D5AE5;
     cursor: pointer;
 }
 
@@ -175,9 +175,9 @@ background-color: #4D5AE5;
 .portfolio__title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    /* text-align: center; */
+    text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
 }
@@ -219,7 +219,7 @@ background-color: #4D5AE5;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
-    /* text-align: center; */
+    text-align: center;
     color: #2e2f42;
 }
 
@@ -271,7 +271,7 @@ background-color: #4D5AE5;
 }
 
 .footer__link span {
-    color: #434455;
+    color: #f4f4fd;
 }
 
 .footer__text {
