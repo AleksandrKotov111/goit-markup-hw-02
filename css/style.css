@@ -1,30 +1,25 @@
 
 
-* {
-
-}
-
 body {
     font-family: "Roboto", sans-serif;
     font-style: normal;
     color: #434455;
-    background-color: #fff;
-    margin: 0 auto;
+    background-color: #FFFFFF;
 }
+/* 
+p{
+    color: #434455;
+} */
 
-p,
+/* p,
 a {
     text-decoration: none;
     font-style: normal;
 }
 
-p{
-    color: #434455;
-}
-
 ul {
     list-style: none;
-}
+} */
 
 
 
@@ -118,7 +113,7 @@ ul {
     font-size: 56px;
     line-height: 107%;
     letter-spacing: 0.02em;
-    text-align: center;
+    /* text-align: center; */
     color: #fff;
 }
 
@@ -129,7 +124,7 @@ ul {
     line-height: 150%;
     letter-spacing: 0.04em;
     color: #fff;
-    background-color: #4D5AE5;
+background-color: #4D5AE5;
     cursor: pointer;
 }
 
@@ -141,7 +136,7 @@ ul {
 /* =========== Container big END */
 /* =========== Strategy */
 .container {
-    margin: 0 auto;
+
 }
 
 .container-team {
@@ -182,7 +177,7 @@ ul {
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
-    text-align: center;
+    /* text-align: center; */
     color: #2e2f42;
     text-transform: capitalize;
 }
@@ -204,7 +199,7 @@ ul {
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
-    text-align: center;
+    /* text-align: center; */
     color: #2e2f42;
 }
 
@@ -212,8 +207,8 @@ ul {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    text-align: center;
-    color: #434455;
+    /* text-align: center; */
+    color: 434455;
 }
 
 /* ============= Team END */
@@ -224,7 +219,7 @@ ul {
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
-    text-align: center;
+    /* text-align: center; */
     color: #2e2f42;
 }
 
